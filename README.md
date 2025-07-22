@@ -20,7 +20,7 @@ Features
 Installation
 	1.	Clone the repo:
 
-git clone https://github.com/<your-username>/SiteSleuth.git
+git clone https://github.com/aliisawesome160/VulnCrawler.git
 cd SiteSleuth
 
 
